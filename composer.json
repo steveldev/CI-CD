@@ -1,0 +1,15 @@
+{
+    "name": "admin/test",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "steveldev",
+            "email": "contact@reseau-net.fr"
+        }
+    ],
+    "require": {}
+}
